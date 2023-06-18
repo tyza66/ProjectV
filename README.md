@@ -4,9 +4,14 @@
 - 服务器大版本使用V开头+字母表示，如第一个大版本为VA，第二个大版本为VB，以此类推
 
 #### VA-极简轻控
-- [ ] 监控服务VA-Watcher
-- [ ] 状态可视化VA-Status
-- [ ] 邮箱智能管家VA-Mail
-- [x] Sakura Frp内网穿透服务
+- 总览
+    <details><summary>架构图</summary></details>
+
+- 系统体系
+  - [ ] 监控服务VA-Watcher
+  - [ ] 状态可视化VA-Status
+  - [ ] 邮箱智能管家VA-Mail
+  - [x] [Sakura Frp内网穿透服务](https://www.natfrp.com/)
+  - [x] [青龙面板](https://github.com/whyour/qinglong)
 
 By：tyza66
