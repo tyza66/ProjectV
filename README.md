@@ -11,12 +11,13 @@
     <details><summary>架构图</summary></details>
 
 - 系统体系
-  - [ ] 监控服务VA-Watcher
-  - [ ] 状态可视化VA-Status
-  - [ ] 邮箱智能管家VA-Mail
-  - [x] [Sakura Frp内网穿透](https://www.natfrp.com/)
-  - [x] [青龙](https://github.com/whyour/qinglong)
-  - [x] [Docker](https://www.docker.com/)
-  - [x] [MySql](https://www.mysql.com/)  
+  - [ ] 服务监控：VA-Watcher
+  - [ ] 服务状态可视化：VA-Status
+  - [ ] 邮箱智能管家：VA-Mail
+  - [x] 内网穿透：[Sakura Frp内网穿透](https://www.natfrp.com/)
+  - [x] 自动化脚本：[青龙](https://github.com/whyour/qinglong)
+  - [x] 容器化：[Docker](https://www.docker.com/)
+  - [x] 数据库：[MySql](https://www.mysql.com/)  
+  - [x] 绿植管理：[GreenBelt](https://github.com/tyza66/GreenBelt)
 
 By：tyza66
