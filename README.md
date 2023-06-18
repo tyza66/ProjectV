@@ -11,7 +11,7 @@
   - [ ] 监控服务VA-Watcher
   - [ ] 状态可视化VA-Status
   - [ ] 邮箱智能管家VA-Mail
-  - [x] [Sakura Frp内网穿透服务](https://www.natfrp.com/)
-  - [x] [青龙面板](https://github.com/whyour/qinglong)
+  - [x] [Sakura Frp内网穿透](https://www.natfrp.com/)
+  - [x] [青龙](https://github.com/whyour/qinglong)
 
 By：tyza66
