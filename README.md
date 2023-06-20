@@ -12,7 +12,7 @@
 
 - 系统体系
   - [ ] 服务监控：VA-Watcher
-  - [ ] 服务状态可视化：VA-Status
+  - [ ] 服务状态可视化：[VA-Status](https://github.com/tyza66/VA-Status)
   - [ ] 邮箱智能管家：VA-Mail
   - [x] 内网穿透：[Sakura Frp内网穿透](https://www.natfrp.com/)
   - [x] 自动化脚本：[青龙](https://github.com/whyour/qinglong)
