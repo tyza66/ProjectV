@@ -11,7 +11,7 @@
     <details><summary>架构图</summary></details>
 
 - 系统体系 
-  - [ ] 服务器监控：[ServerWatcher-DingBot-Go](https://github.com/tyza66/ServerWatcher-DingBot-Go)
+  - [x] 钉钉服务器监控：[ServerWatcher-DingBot-Go](https://github.com/tyza66/ServerWatcher-DingBot-Go)
   - [ ] 服务器状态可视化：[ServerWatcher-Center](https://github.com/tyza66/ServerWatcher-Center)
   - [x] 文件管理：[VA-File](https://github.com/tyza66/VA-File)
   - [ ] 邮箱智能管家：VA-Mail
@@ -23,8 +23,8 @@
   - [x] 绿植管理：[GreenBelt](https://github.com/tyza66/GreenBelt)
   - [x] 家庭记账: [IHaveAccountAtHome](https://github.com/tyza66/IHaveAccountAtHome)
   - [ ] 模型训练管理：AlchemyFurnace 
-  - [x] 摄像头人脸识别：TheEyesOfTheFamily 
-  - [ ] 订阅信息推送：[DailySub-DingBot](https://github.com/tyza66/DailySub-DingBot)  
+  - [ ] 摄像头人脸识别：TheEyesOfTheFamily 
+  - [x] 订阅信息推送：[DailySub-DingBot](https://github.com/tyza66/DailySub-DingBot)  
   - [x] ChatGPT钉钉机器人：[ChatGPT-DingBot](https://github.com/tyza66/ChatGPT-DingBot)  
   - [x] 文心一言钉钉机器人：[ERNIE-DingBot](https://github.com/tyza66/ERNIE-DingBot)  
 
