@@ -14,7 +14,9 @@
   - [x] 钉钉服务器监控：[ServerWatcher-DingBot-Go](https://github.com/tyza66/ServerWatcher-DingBot-Go)
   - [ ] 服务器状态可视化：[ServerWatcher-Center](https://github.com/tyza66/ServerWatcher-Center)
   - [x] 文件管理：[VA-File](https://github.com/tyza66/VA-File)
-  - [x] 智能中控：[HomeHolder-DingBot](https://github.com/tyza66/HomeHolder-DingBot)
+  - [ ] 智能中控：VA-Center
+  - [ ] 邮箱智能管家：VA-Mail
+  - [x] 钉钉智能管家：[HomeHolder-DingBot](https://github.com/tyza66/HomeHolder-DingBot)
   - [x] 内网穿透：[Sakura Frp](https://www.natfrp.com/)
   - [x] 自动化脚本：[qinglong](https://github.com/whyour/qinglong)
   - [x] 容器化：[Docker](https://www.docker.com/)
