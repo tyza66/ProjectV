@@ -28,5 +28,9 @@
   - [x] 订阅信息推送：[DailySub-DingBot](https://github.com/tyza66/DailySub-DingBot)  
   - [x] ChatGPT钉钉机器人：[ChatGPT-DingBot](https://github.com/tyza66/ChatGPT-DingBot)  
   - [x] 文心一言钉钉机器人：[ERNIE-DingBot](https://github.com/tyza66/ERNIE-DingBot)  
+  
+### 继续使用
 
+- 已迁移至https://github.com/FasterEdge
+- 已迁移至https://github.com/Mutantcat-Working-Group
 By：tyza66
